@@ -1,0 +1,3 @@
+hello , 
+
+the below test is for configuring first time creation of git repo and adding it to GitHub
